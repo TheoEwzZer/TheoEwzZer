@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Théo Fabiano</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-- 🔭 I’m currently working on **a discord bot**
-
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **theo.fabianomattei@gmail.com**
