@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [theofabiano.me](https://theofabiano.me)
+- 👨‍💻 All of my projects are available at **[theofabiano.me](https://theofabiano.me)**
 
 - 📫 How to reach me **theo.fabianomattei@gmail.com**
 
