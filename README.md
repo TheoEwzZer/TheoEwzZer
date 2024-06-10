@@ -257,6 +257,3 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=theoewzzer&show_icons=true&theme=onedark&locale=en&layout=compact"
   alt="theoewzzer"
 />
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.5; background: url('https://github.com/TheoEwzZer/TheoEwzZer/blob/main/assets/background.gif?raw=true'); background-size: cover; background-position: center;]{x0000}$}
