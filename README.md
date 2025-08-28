@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at **[theofabiano.tech](https://theofabiano.tech)**
+- 👨‍💻 All of my projects are available at **[theofabiano.com](https://theofabiano.tech)**
 
 - 📫 How to reach me **<theo.fabianomattei@gmail.com>**
 
