@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Marseille,_France-2B2723?style=flat-square" alt="Localisation"/>
   <img src="https://img.shields.io/badge/💼_Disponible_en_freelance-D9694A?style=flat-square" alt="Disponibilité"/>
   <img src="https://komarev.com/ghpvc/?username=TheoEwzZer&label=Vues%20du%20profil&color=D9694A&style=flat-square" alt="Vues du profil"/>
 </p>
