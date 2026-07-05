@@ -28,7 +28,6 @@ J'attache autant d'importance à un **code fiable et maintenable** qu'à une **i
 ```ts
 const theo = {
   role: "Développeur freelance fullstack",
-  basé: "Marseille, France 🇫🇷",
   formation: "Epitech · échange à l'Université Laval (Québec) 🇨🇦",
   domaines: ["Web & SaaS", "Mobile", "Jeux vidéo", "Desktop", "IA & systèmes", "API / moteurs"],
   devise: "Votre idée, réalisée de A à Z par une seule personne.",
